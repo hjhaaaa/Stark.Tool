@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>hjhnugetbao</id>
+    <version>1.0.1</version>
+    <title>hjhnugetbao</title>
+    <authors>hjh</authors>
+    <owners>$author$</owners>
+    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>wode bao hjh</description>
+    <releaseNotes>noee</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>hjh</tags>
+  </metadata>
+</package>
